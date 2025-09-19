@@ -10,6 +10,7 @@ IN3 -> 18
 IN4 -> 19
 VCC -> 3V3
 GND -> GND
+Published at https://gallery.appinventor.mit.edu/?galleryid=8fd19318-25fb-449e-9a06-6e6ae451fec8
 Code: 
 #include "BluetoothSerial.h"
 BluetoothSerial BT;
