@@ -1,7 +1,7 @@
-# ESPRobot using the ESP32 DevKit DOIT V1
+# ESPRobot using the ESP32 DevKit DOIT V1 in conjunction with MIT App Inventor
 Wiring: 
 Left Motor -> IN1, IN2
-
+Right Motor -> IN3, IN4
 Code: 
 #define IN1 12
 #define IN2 13
